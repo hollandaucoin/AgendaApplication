@@ -1,0 +1,161 @@
+body {
+	width: 100%;
+	margin: 0 auto;
+	font-family: Trebuchet MS, "Lucida Grande", sans-serif;
+	font-size: 13pt;
+}
+
+
+/* NAVBAR */
+/* ul {
+	list-style-type: none;
+	margin: 0;
+	padding-top: 10px;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+} */
+
+table a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 0px 20px 0px 20px;
+	text-decoration: none !important;
+	color: #a2a1a3;
+}
+
+table a:hover {
+	color: #f97f80;
+	text-decoration: none;
+}
+
+
+
+
+.index {
+	color: #333 !important;
+	text-transform: uppercase;
+	text-decoration: none;
+	background: #ffffff;
+	padding: 35px 35px 35px 35px;
+	border: 2px solid #333 !important;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+.labels {
+	text-align: right;
+}
+
+.forms {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.link {
+	color: #f97f80;
+	text-decoration: none;
+	display: inline-block;
+	padding: 0px 0px 0px 0px;
+}
+
+button {
+	color: #333 !important;
+	text-transform: uppercase;
+	text-decoration: none;
+	background: #ffffff;
+	padding: 10px 10px 10px 10px;
+	border: 2px solid #333;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+button:hover {
+	color: #f97f80;
+	border: 2px solid #f97f80;
+	cursor: pointer;
+}
+
+.deleteButton {
+	color: #333 !important;
+	text-transform: uppercase;
+	text-decoration: none;
+	background: #ffffff;
+	padding: 10px 10px 10px 10px;
+	border: 2px solid #333;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+.deleteButton:hover {
+	color: #f97f80;
+	border: 2px solid #f97f80;
+	cursor: pointer;
+}
+
+.eventButtons {
+	color: #333;
+	text-decoration: none;
+	font-size: 18px;
+	background: #ffffff;
+	padding: 10px 10px 10px 10px;
+	border: none;
+	border-radius: 10px;
+	display: inline-block;
+	font-family: Trebuchet MS, "Lucida Grande", sans-serif;
+}
+
+.eventButtons:hover {
+	color: #f97f80 !important;
+	cursor: pointer;
+}
+
+.delete {
+	color: #a2a1a3;
+	text-decoration: none;
+	font-size: 18px;
+	background: #ffffff;
+	padding: 10px 10px 10px 10px;
+	border: none;
+	border-radius: 10px;
+	display: inline-block;
+	font-family: Trebuchet MS, "Lucida Grande", sans-serif;
+}
+
+.delete:hover {
+	color: #f97f80 !important;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+
+.footer {
+ 	text-align: center;
+ 	position: relative !important;
+	left:0px;
+  	bottom:0px;
+   	height:20px;
+   	width:100%;
+}
+
+
+.errorPage {
+	align: center;
+	text-align: center;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+   
+.errorPage table {
+	text-align:left;
+}
+
+
+
