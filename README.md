@@ -34,7 +34,7 @@ The planning for this project included using tools such as UML diagrams to deter
 <p align="center">
 	<img src="AgendaApplicationPNG/Wireframes.png" alt="Digital Wireframes"/>
 </p>
-	
+	 
 <h3>Sitemap<h3>
 <p align="center">
 	<img src="AgendaApplicationPNG/Sitemap.png" alt="Sitemap"/>
