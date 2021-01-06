@@ -7,12 +7,12 @@ The objective of this project was to build a complete enterprise class N-Layer a
 	1. User Login and Registration
 	2. Separation of presentation, business, and data layers
 	3. Adhere to industry best practices such as exception handling
-  4. Utilize the MVC design pattern
-  5. Written using Spring MVC compliant pages
-  6. Include at least one jQuery and Bootstrap component
+	4. Utilize the MVC design pattern
+	5. Written using Spring MVC compliant pages
+	6. Include at least one jQuery and Bootstrap component
 	7. Perform CRUD operations on a product
 	8. Execute data validation on all entry fields
-  9. Connect to a relational database
+	9. Connect to a relational database
 
 
 <h2>Design</h2>
